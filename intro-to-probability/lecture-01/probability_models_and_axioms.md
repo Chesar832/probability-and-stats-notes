@@ -63,7 +63,7 @@
    Roll a tetrahedral die twice. What is the probability that the sum of the two rolls is at most 5?
 
 9. **Probability Distribution**  
-   For a discrete random variable with outcomes $x = \{1, 2, 3\}$ and probabilities $P(1) = 0.2$, $P(2) = 0.5$, $P(3) = 0.3$, verify that it satisfies the axioms of probability.
+   For a discrete random variable with outcomes $x = `\{1, 2, 3\}`$ and probabilities $P(1) = 0.2$, $P(2) = 0.5$, $P(3) = 0.3$, verify that it satisfies the axioms of probability.
 
 10. **Real-Life Scenario**  
     The probability of rain tomorrow is $0.7$. What is the probability it will not rain?
