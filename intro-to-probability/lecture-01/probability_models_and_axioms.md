@@ -42,6 +42,7 @@ P(x_i + y_i = 7) = P(1, 6) + P(2, 5) + P(3, 4) + P(4, 3) + P(5, 2) + P(6, 1) \\
 P(x_i + y_i = 7) = \frac{1}{32} + \frac{1}{32} + \frac{1}{32} + \frac{1}{32} + \frac{1}{32} + \frac{1}{32} \\
 P(x_i + y_i = 7) = \frac{6}{32} = \frac{1}{6} \\
 P(x_i + y_i = 7) \approx 0.167
+
 ```
 
 #### Define a continuous sample space for a point chosen uniformly at random in a square with side length 1.
