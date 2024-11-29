@@ -37,10 +37,12 @@ In this we have a set of $x, y$ discrete outcomes, then the intersection of two 
 
 So, let's compute the probability:
 
-$ P(x_i + y_i = 7) = P(1, 6) + P(2, 5) + P(3, 4) + P(4, 3)+ P(5, 2) + P(6, 1) $
-$ P(x_i + y_i = 7) = 1/32 + 1/32 + 1/32 + 1/32 + 1/32 + 1/32 $
-$ P(x_i + y_i = 7) = 6/32 = 1/6 $
-$ P(x_i + y_i = 7) \approx 0.167 $
+$$\eqalign{
+P(x_i + y_i = 7) = P(1, 6) + P(2, 5) + P(3, 4) + P(4, 3)+ P(5, 2) + P(6, 1) \\
+P(x_i + y_i = 7) = 1/32 + 1/32 + 1/32 + 1/32 + 1/32 + 1/32 \\
+P(x_i + y_i = 7) = 6/32 = 1/6 \\
+P(x_i + y_i = 7) \approx 0.167
+}$$
 
 #### Define a continuous sample space for a point chosen uniformly at random in a square with side length 1.
 
